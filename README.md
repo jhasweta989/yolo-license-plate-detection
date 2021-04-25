@@ -4,16 +4,17 @@ This repository contains a method to detect **Iranian vehicle license plates** a
 This repositery has a method to detect number of licence plate. It use a yolo-licence-plate detection method to detect number plate. Then crop Region of interest from the image.
 Then detect Text in the image using pytesseract
 
-![Sample output of the system](image.jpg "Sample Output of Licence plate detection model")
+![Sample Output of Licence plate detection model](image.JPG "Sample Output of Licence plate detection model")
 
-![Sample output of the system](roi.jpg "Region of interest")
-![Sample output of the system](no.detected.jpg "Text detected")
-![Sample output of the system](output.jpg "Sample final Output")
+![Region of interest](roi.JPG "Region of interest")
+![Text detected](no.detected.JPG "Text detected")
+![Sample final Output](output.JPG "Sample final Output")
 
 ## How to employ?
 
 You can download the weight file from [this](https://drive.google.com/file/d/1vXjIoRWY0aIpYfhj3TnPUGdmJoHnWaOc/ "this") link.
-##Step to follow
+
+###Step to follow
 run index.py
 can change image in index.py to test for another image
 ```
