@@ -1,6 +1,5 @@
 # License-plate Detection by YOLO
 
-This repository contains a method to detect **Iranian vehicle license plates** as a representation of vehicle presence in an image. We have utilized **You Only Look Once version 3 (YOLO v.3)** to detect the license plates inside an input image. The method has the advantages of high accuracy and real-time performance, according to YOLO v.3 architecture. The presented system receives a series of vehicle images and produces the processed image with added bounding-boxes containing the vehicles' license plates. The flow of how we have trained and tested the application is published in a paper accessible from the citation section.
 This repositery has a method to detect number of licence plate. It use a yolo-licence-plate detection method to detect number plate. Then crop Region of interest from the image.
 Then detect Text in the image using pytesseract
 
