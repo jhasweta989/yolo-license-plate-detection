@@ -7,7 +7,7 @@ Then detect Text in the image using pytesseract
 ![Sample Output of Licence plate detection model](image.JPG "Sample Output of Licence plate detection model")
 
 ![Region of interest](roi.JPG "Region of interest")
-![Text detected](no.detected.JPG "Text detected")
+![Text detected](detect.JPG "Text detected")
 ![Sample final Output](output.JPG "Sample final Output")
 
 ## How to employ?
